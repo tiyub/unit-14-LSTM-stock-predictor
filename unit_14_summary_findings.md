@@ -1,4 +1,4 @@
-# LSTM Stock Predictor
+# LSTM Stock Predictor - Summary
 
 ![deep-learning.jpg](Images/deep-learning.jpg)
 
