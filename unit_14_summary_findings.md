@@ -33,7 +33,7 @@ FNG predictor cell 27, window 10
 
 ## Which window size works best for the model?  
 - - -
-To contrast the results windows of 10 and 100 were used. A long window made the Closings predictor more accurate holding remarkably to the actual values. While the FNG model malfunctioned rendering a flatline at 6000$.  
+To contrast the results windows of 10 and 100 were used. A long window made the Closings predictor more accurate holding remarkably to the actual values. While the FNG model rendered a flatline below 6000$.  
 <br />
 Closings predictor plot, window 10  
 ![Closings predictor plot, window 10](Images/bokeh_plot_c_10.png)  <br /><br />
